@@ -103,3 +103,20 @@ const PropertyDetails = () => {
 };
 
 export default PropertyDetails;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//h
