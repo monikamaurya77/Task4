@@ -40,7 +40,7 @@ const PriceRangeDropdown = () => {
     },
     {
       value: "32000 - 38000",
-    },
+    },//h
   ];
   return (
     <Menu as="div" className="dropdown relative">
