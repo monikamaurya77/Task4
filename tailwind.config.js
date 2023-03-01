@@ -22,7 +22,7 @@ module.exports = {
         secondary: "#7F56D9",
       },
       boxShadow: {
-        1: "0px 4px 30px rgba(0, 0, 0, 0.08)",
+        1: "0px 4px 30px rgba(0, 0, 0, 0.09)",
       },
     },
   },
