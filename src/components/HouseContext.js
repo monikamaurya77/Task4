@@ -99,7 +99,7 @@ const HouseContextProvider = ({ children }) => {
       ) {
         if (houseDate >= minDate && houseDate <= maxDate) {
           return house;
-        }
+        }//h
       }
       if (
         !isDefault(country) &&
